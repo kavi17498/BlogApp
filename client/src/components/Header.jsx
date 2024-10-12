@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 import Image from "../images/girl.jpg"
-import {FaBars} from "react-icons/fa"
+
 import {AiOutlineClose} from "react-icons/ai"
 function Header() {
   return (
